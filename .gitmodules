@@ -4,3 +4,6 @@
 [submodule "AdvancedAndroid_Emojify"]
 	path = AdvancedAndroid_Emojify
 	url = ./AdvancedAndroid_Emojify
+[submodule "AdvancedAndroid_Squawker"]
+	path = AdvancedAndroid_Squawker
+	url = ./AdvancedAndroid_Squawker/
