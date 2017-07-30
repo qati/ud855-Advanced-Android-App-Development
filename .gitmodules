@@ -1,3 +1,6 @@
 [submodule "Android_Me"]
 	path = Android_Me
 	url = ./Android_Me/
+[submodule "AdvancedAndroid_Emojify"]
+	path = AdvancedAndroid_Emojify
+	url = ./AdvancedAndroid_Emojify
