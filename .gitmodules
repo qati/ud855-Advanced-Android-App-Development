@@ -7,3 +7,6 @@
 [submodule "AdvancedAndroid_Squawker"]
 	path = AdvancedAndroid_Squawker
 	url = ./AdvancedAndroid_Squawker/
+[submodule "AdvancedAndroid_Shushme"]
+	path = AdvancedAndroid_Shushme
+	url = ./AdvancedAndroid_Shushme/
