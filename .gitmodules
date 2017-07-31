@@ -10,3 +10,6 @@
 [submodule "AdvancedAndroid_Shushme"]
 	path = AdvancedAndroid_Shushme
 	url = ./AdvancedAndroid_Shushme/
+[submodule "AdvancedAndroid_ClassicalMusicQuiz"]
+	path = AdvancedAndroid_ClassicalMusicQuiz
+	url = ./AdvancedAndroid_ClassicalMusicQuiz/
