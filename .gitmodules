@@ -13,3 +13,6 @@
 [submodule "AdvancedAndroid_ClassicalMusicQuiz"]
 	path = AdvancedAndroid_ClassicalMusicQuiz
 	url = ./AdvancedAndroid_ClassicalMusicQuiz/
+[submodule "AdvancedAndroid_TeaTime"]
+	path = AdvancedAndroid_TeaTime
+	url = ./AdvancedAndroid_TeaTime/
